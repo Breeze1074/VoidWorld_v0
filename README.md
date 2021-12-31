@@ -1,8 +1,9 @@
 Void world + structure spawns (HSA) and multiple biomes
 ================
 
-<br />**By:** CrazyBreeze1074 <br />**Tested by:** CrazyBreeze1074 and
-Rayth <br />**Credit to:** RufusAtticus for
+**By:** CrazyBreeze1074  
+**Tested by:** CrazyBreeze1074 and Rayth  
+**Credit to:** RufusAtticus for
 [rbedrock](https://github.com/reedacartwright/rbedrock)
 
 A very large custom void world, **VoidWorld\_CrazyBreeze.mcworld**,
@@ -17,7 +18,6 @@ areas for 16 overworld biomes and 4 nether biomes.
 Biome bounding boxes are provided in **biomePositions.csv** and hsa
 coordinates are provided in **structurePositions.csv**.
 
-Note: the Ocean Monument HSA are not in vanilla orientation.
-
+Note: the Ocean Monument HSA are not in vanilla orientation.  
 Note: the source code is not working with current rbedrock versions.
 This map was generated in August using 1.17 code.
