@@ -1,0 +1,21 @@
+biome,xMin,xMax,zMin,zMax,dimension,note
+river,-208,207,-208,207,Overworld,1 chunk wide around cold_taiga
+cold_taiga,-192,191,-192,191,Overworld,inside the river
+desert,-192,191,-592,-209,Overworld,NA
+bamboo_jungle,-592,-209,-592,-209,Overworld,NA
+flower_forest,608,991,-192,191,Overworld,NA
+swampland,608,991,608,991,Overworld,NA
+savanna,-2240,-1857,-192,191,Overworld,NA
+ocean,1856,2239,-192,191,Overworld,NA
+frozen_ocean,-192,191,-2240,-1857,Overworld,NA
+warm_ocean,1856,2239,1856,2239,Overworld,NA
+ice_mountains,-192,191,1856,2239,Overworld,NA
+mushroom_island,-192,191,-3264,-2881,Overworld,NA
+frozen_river,-2240,-1857,-3264,-2881,Overworld,NA
+beach,1856,2239,-3264,-2881,Overworld,NA
+warm_ocean,-2240,-1857,-2240,-1857,Overworld,NA
+frozen_ocean,-2240,-1857,1856,2239,Overworld,NA
+hell,-208,207,-208,207,Nether,NA
+warped_forest,608,991,-976,-593,Nether,NA
+soulsand_valley,-976,-593,-976,-593,Nether,NA
+crimson_forest,608,991,608,991,Nether,NA
