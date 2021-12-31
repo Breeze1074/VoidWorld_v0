@@ -13,6 +13,10 @@ areas for 16 overworld biomes and 4 nether biomes. <br /> <br />![Biome
 map](biomesMaps.png) <br /> <br />Biome bounding boxes are provided in
 **biomePositions.csv** and hsa coordinates are provided in
 **structurePositions.csv**. <br />Note: the Ocean Monument HSA are not
+<<<<<<< HEAD
 in vanilla orientation. <br />Note: the source code is not working with
 current rbedrock versions. This map was generated in August using 1.17
 code.
+=======
+in vanilla orientation.
+>>>>>>> ccebe914372c6cffb886ce8eaffd04875daf93f6
