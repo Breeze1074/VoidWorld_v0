@@ -4,7 +4,7 @@ Void world + structure spawns (HSA) and multiple biomes
 **By:** CrazyBreeze1074  
 **Tested by:** CrazyBreeze1074 and Rayth  
 **Credit to:** RufusAtticus for
-[rbedrock](https://github.com/reedacartwright/rbedrock)
+[rbedrock](https://github.com/reedacartwright/rbedrock) support
 
 A very large custom void world, **VoidWorld\_CrazyBreeze.mcworld**,
 originally purposed for **[SkyBlock Bedrock
